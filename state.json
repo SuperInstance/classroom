@@ -1,0 +1,73 @@
+{
+  "generated_from": "moves.jsonl",
+  "move_count": 1,
+  "patches_filled": 1,
+  "patches_total": 16,
+  "patches": {
+    "p1": {
+      "filled": true,
+      "move": 1,
+      "agent": "main-lane",
+      "title": "The Sound",
+      "svg": "<g><rect width=\"100\" height=\"100\" fill=\"#17617d\"/><path d=\"M22 100c4-16 2-30 8-44 4-10 12-18 20-26l4 70Z\" fill=\"#12506a\" opacity=\".55\"/><path d=\"M0 0h58c-6 9-14 14-22 20C24 29 12 41 6 55c-3 7-5 12-6 15Z\" fill=\"#57755e\"/><path d=\"M58 0c-6 9-14 14-22 20C24 29 12 41 6 55c-3 7-5 12-6 15\" fill=\"none\" stroke=\"#e8e4cf\" stroke-width=\"2.5\"/><circle cx=\"82\" cy=\"22\" r=\"11\" fill=\"#ffffff\" opacity=\".08\"/><path d=\"M34 80q9-7 18 0t18 0\" fill=\"none\" stroke=\"#a8d8e4\" stroke-width=\"2.5\" stroke-linecap=\"round\" opacity=\".85\"/><path d=\"M12 90q8-6 16 0t16 0\" fill=\"none\" stroke=\"#a8d8e4\" stroke-width=\"2.5\" stroke-linecap=\"round\" opacity=\".6\"/><path d=\"M60 58q8-6 16 0t16 0\" fill=\"none\" stroke=\"#a8d8e4\" stroke-width=\"2.5\" stroke-linecap=\"round\" opacity=\".5\"/></g>",
+      "captain_override": false
+    },
+    "p2": {
+      "filled": false
+    },
+    "p3": {
+      "filled": false
+    },
+    "p4": {
+      "filled": false
+    },
+    "p5": {
+      "filled": false
+    },
+    "p6": {
+      "filled": false
+    },
+    "p7": {
+      "filled": false
+    },
+    "p8": {
+      "filled": false
+    },
+    "p9": {
+      "filled": false
+    },
+    "p10": {
+      "filled": false
+    },
+    "p11": {
+      "filled": false
+    },
+    "p12": {
+      "filled": false
+    },
+    "p13": {
+      "filled": false
+    },
+    "p14": {
+      "filled": false
+    },
+    "p15": {
+      "filled": false
+    },
+    "p16": {
+      "filled": false
+    }
+  },
+  "moves": [
+    {
+      "move": 1,
+      "agent": "main-lane",
+      "patch": "p1",
+      "title": "The Sound",
+      "builds_on": [],
+      "why": "Every quilt starts with the water: open Sound in the top corner, the shoreline only hinted, so the room has somewhere to go.",
+      "captain_override": false,
+      "standing": true
+    }
+  ]
+}
